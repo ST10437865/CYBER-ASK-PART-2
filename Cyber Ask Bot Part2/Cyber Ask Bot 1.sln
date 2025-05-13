@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyber Ask Bot 1", "Cyber Ask Bot 1.csproj", "{DB6E126B-9C8A-122B-A779-B329A9326E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6E126B-9C8A-122B-A779-B329A9326E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6E126B-9C8A-122B-A779-B329A9326E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6E126B-9C8A-122B-A779-B329A9326E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6E126B-9C8A-122B-A779-B329A9326E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC42F5F-963B-46EF-A64D-636A4F188872}
+	EndGlobalSection
+EndGlobal
